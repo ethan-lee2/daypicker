@@ -1,0 +1,36 @@
+{
+  "name": "days-of-the-week-picker",
+  "version": "1.0.0",
+  "description": "Days of the week picker made with styled material-ui toggle buttons. ToggleDays component can be used as a custom field for redux-forms.",
+  "keywords": [
+    "week",
+    "react",
+    "days",
+    "picker",
+    "material"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.9.1",
+    "@material-ui/lab": "4.0.0-alpha.41",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.0.1",
+    "redux-form-immutable": "6.3.2"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
